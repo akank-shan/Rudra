@@ -1,1 +1,2 @@
-# Rudra
+# synchronousBallMovement
+Ball moving synchronously
